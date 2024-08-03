@@ -29,6 +29,11 @@
 
     <dependencies>
         <!-- libraries -->
+        <dependency>
+            <groupId>it.unimi.dsi</groupId>
+            <artifactId>dsiutils</artifactId>
+            <version>2.7.3</version>
+        </dependency>
 
         <!-- tests -->
     </dependencies>
